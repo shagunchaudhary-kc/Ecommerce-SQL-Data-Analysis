@@ -1,6 +1,5 @@
 # Ecommerce-SQL-Data-Analysis
 SQL-based analysis of an e-commerce dataset to derive key business KPIs, sales trends, regional performance, and customer payment insights.
-# Ecommerce SQL Data Analysis
 
 # Project Overview
 This project performs SQL-based data analysis on an e-commerce dataset to understand sales performance, customer behavior, product contribution, and payment trends.
